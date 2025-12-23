@@ -5,3 +5,11 @@ This is a opinionated repo init script for web docker arch container environment
 
 installed apps need to run with --no-sandbox and gpg key handler needs to be installed, kde already comes with one.
 
+
+## Installation
+```bash
+sh ./install.sh
+```
+
+
+
